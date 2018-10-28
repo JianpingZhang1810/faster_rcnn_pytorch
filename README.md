@@ -32,6 +32,7 @@ by Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun.
     conda install pip pyyaml sympy h5py cython numpy scipy
     conda install -c menpo opencv3
     pip install easydict
+    pip install opencv-python
     ```
 
 
